@@ -59,9 +59,10 @@ This project is created as part of an internship program.
 
 ## 👤 Author
 
-**Akansha** - [GitHub Profile](https://github.com/bhumihar870)
+**SHUBHAM** - [GitHub Profile](https://github.com/bhumihar870)
 
 ## 📧 Contact
+**9334684701**
 
 Feel free to reach out for any questions or suggestions.
 
