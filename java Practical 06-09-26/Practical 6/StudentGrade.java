@@ -1,6 +1,6 @@
 public class StudentGrade {
     public static void main(String[] args) {
-        char grade = 'B';
+        char grade = 'A';
         boolean hasPassed = true;
 
         System.out.println("Student Grade: " + grade);
