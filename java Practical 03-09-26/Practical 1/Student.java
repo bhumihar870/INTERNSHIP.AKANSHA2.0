@@ -1,6 +1,6 @@
 public class Student {
-    String name = "Dhanish kumar";
-    int rollNo = 56;
+    String name = "Shubham sharma";
+    int rollNo = 57;
     double marks = 99.9;
     public static void main(String[] args) {
         Student student = new Student();
