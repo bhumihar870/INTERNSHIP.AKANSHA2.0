@@ -1,7 +1,7 @@
 public class Banking {
-    static String bankName = "Bank of India";
-    String accountHolder = "Dhanish kumar";
-    double balance = 20000;
+    static String bankName = "Union Bank of India";
+    String accountHolder = "Shubham sharma";
+    double balance = 70000;
 
     void accountDetails() {
         System.out.println(bankName);
