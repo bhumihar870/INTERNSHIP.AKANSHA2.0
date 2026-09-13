@@ -1,7 +1,7 @@
 public class SalaryCalculator {
-    String employeeName = "Dhanish kumar";
+    String employeeName = "Shubham sharma";
     double basicSalary;
-    static String companyName = "Tata Consultancy Services Ltd.";
+    static String companyName = "Akansha 2.0Services Ltd.";
 
     void salaryinput(double basicSalary){
         double hra = basicSalary * 0.20;
