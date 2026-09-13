@@ -1,8 +1,8 @@
 public class EmployeeDetails {
     public static void main(String[] args) {
         // Variable declarations with appropriate data types
-        String name = "Dhanish Kumar";
-        int id = 7546484;
+        String name = "Shubham sharma";
+        int id = 2301201073;
         double salary = 97855.78;
         String department = "Jr. Developer";
 
